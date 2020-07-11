@@ -1,0 +1,77 @@
+Program Found
+stmt_sequence Found
+statement Found
+read stmt
+Semi Colon Found
+statement Found
+If-statement Found
+If
+Exp Found
+Simple_exp Found
+Term Found
+Factor Found 
+Digit
+Comparison stmt
+<
+Simple_exp Found
+Term Found
+Factor Found 
+ID
+Then
+stmt_sequence Found
+statement Found
+Assignment_stmt
+Exp Found
+Simple_exp Found
+Term Found
+Factor Found 
+Digit
+Semi Colon Found
+statement Found
+Repeat_statement Found
+stmt_sequence Found
+statement Found
+Assignment_stmt
+Exp Found
+Simple_exp Found
+Term Found
+Factor Found 
+ID
+Mulop Found
+*
+Factor Found 
+ID
+Semi Colon Found
+statement Found
+Assignment_stmt
+Exp Found
+Simple_exp Found
+Term Found
+Factor Found 
+ID
+Addop Found
+-
+Term Found
+Factor Found 
+Digit
+Until Found
+Exp Found
+Simple_exp Found
+Term Found
+Factor Found 
+ID
+Comparison stmt
+=
+Simple_exp Found
+Term Found
+Factor Found 
+Digit
+Semi Colon Found
+statement Found
+Write stmt
+Exp Found
+Simple_exp Found
+Term Found
+Factor Found 
+ID
+Successfull End if
